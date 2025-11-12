@@ -1,11 +1,11 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "routes": [
-        {
-          "pattern": "apocaratns.shop",
-          "custom_domain": true
-        }
-      ],
+      {
+        "pattern": "apocaratns.shop",
+        "custom_domain": true
+      }
+    ],
   "name": "sink-apocratnsshop",
   "main": "dist/server/index.mjs",
   "assets": {
