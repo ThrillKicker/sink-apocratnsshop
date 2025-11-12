@@ -2,7 +2,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "routes": [
       {
-        "pattern": "apocaratns.shop",
+        "pattern": "apocratns.shop",
         "custom_domain": true
       }
     ],
