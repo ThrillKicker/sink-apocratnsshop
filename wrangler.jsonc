@@ -24,7 +24,7 @@
   "analytics_engine_datasets": [
     {
       "binding": "ANALYTICS",
-      "dataset": "sink-apocratnsshop"
+      "dataset": "sink_dataset_apocratnsshop"
     }
   ],
   "kv_namespaces": [
